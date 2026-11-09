@@ -1,0 +1,4 @@
+2026-11-09 21:47:28 | INFO | 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-11-09 21:47:28 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:47:28 | INFO | 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '6085551023'}
+2026-11-09 21:47:32 | ERROR | 请求异常：HTTPConnectionPool(host='localhost', port=9966): Max retries exceeded with url: /petclinic/api/owners (Caused by NewConnectionError("HTTPConnection(host='localhost', port=9966): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))

@@ -1,0 +1,11 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    完整业务流程：主人+宠物全链路（spring-petclinic-rest 实测契约）
+    1.新增主人(POST /owners)         -> 201, body 返回带 id
+    2.给主人新增宠物(POST /owners/{id}/pets) -> 201, body 返回带 id
+    3.查询主人(GET /owners/{id})     -> 200, 校验宠物已挂在主人下
+    4.修改宠物(PUT /owners/{id}/pets/{pid}) -> 204
+    5.再次查询主人, 校验宠物修改生效
+    6.删除宠物(DELETE /pets/{pid})   -> 204
+    7.删除主人(DELETE /owners/{id})  -> 204
+    ","246","test_owner_pet_full_flow","testcases","2026-11-09","passed","2026-11-09","","test_owner_pet_flow","",""

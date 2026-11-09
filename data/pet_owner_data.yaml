@@ -1,0 +1,20 @@
+owner_info:
+  firstName: "Auto"
+  lastName: "TestUser"
+  address: "test street 123"
+  city: "Nanning"
+  telephone: "6085551023"
+
+pet_add:
+  name: "AutoCat"
+  birthDate: "2024-01-01"
+  type:
+    id: 1
+    name: "cat"
+
+pet_modify:
+  name: "AutoCatUpdate"
+  birthDate: "2024-02-02"
+  type:
+    id: 1
+    name: "cat"

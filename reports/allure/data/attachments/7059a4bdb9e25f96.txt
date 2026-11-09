@@ -1,0 +1,5 @@
+2026-10-30 23:01:22 | INFO | 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-30 23:01:22 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:01:22 | INFO | 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 23:01:22 | INFO | 响应码: 500
+2026-10-30 23:01:22 | INFO | 响应内容: {"detail":"An unexpected error occurred while processing your request","instance":"/petclinic/api/owners","status":500,"title":"ConstraintViolationException","type":"http://localhost:9966/petclinic/api/owners","timestamp":"2026-10-30T15:01:22.097198300Z","schemaValidationErrors":[]}

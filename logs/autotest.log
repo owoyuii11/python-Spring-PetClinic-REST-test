@@ -1,0 +1,242 @@
+2026-10-30 19:49:53.136 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 19:49:53.137 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 19:49:53.137 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 19:49:53.147 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 19:49:53.147 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 20:53:40.498 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 20:53:40.498 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 20:53:40.499 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 20:53:40.518 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 20:53:40.519 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 20:56:28.877 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 20:56:28.878 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 20:56:28.878 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 20:56:28.887 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 20:56:28.888 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 20:57:02.662 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 20:57:02.663 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 20:57:02.663 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 20:57:02.673 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 20:57:02.673 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:29:18.257 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 22:29:18.257 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:29:18.258 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:29:18.267 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 22:29:18.268 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:30:14.526 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 22:30:14.526 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:30:14.526 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:30:14.536 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 22:30:14.536 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:31:09.105 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 22:31:09.105 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:31:09.106 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:31:09.115 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 22:31:09.116 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:33:05.707 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 22:33:05.707 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:33:05.708 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:33:05.720 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 22:33:05.720 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:33:14.880 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 22:33:14.880 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:33:14.880 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:33:14.890 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 22:33:14.891 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:38:51.520 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 22:38:51.521 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:38:51.521 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:38:51.531 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 22:38:51.531 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:39:32.374 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/api/owners
+2026-10-30 22:39:32.375 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:39:32.375 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:39:32.384 | INFO     | common.request:send:26 - 响应码: 404
+2026-10-30 22:39:32.385 | INFO     | common.request:send:27 - 响应内容: <!doctype html><html lang="en"><head><title>HTTP Status 404 – Not Found</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 404 – Not Found</h1></body></html>
+2026-10-30 22:53:56.838 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-30 22:53:56.839 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:53:56.839 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:53:56.955 | INFO     | common.request:send:26 - 响应码: 500
+2026-10-30 22:53:56.959 | INFO     | common.request:send:27 - 响应内容: {"detail":"An unexpected error occurred while processing your request","instance":"/petclinic/api/owners","status":500,"title":"ConstraintViolationException","type":"http://localhost:9966/petclinic/api/owners","timestamp":"2026-10-30T14:53:56.945930400Z","schemaValidationErrors":[]}
+2026-10-30 22:55:07.162 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-30 22:55:07.163 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 22:55:07.163 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 22:55:07.190 | INFO     | common.request:send:26 - 响应码: 500
+2026-10-30 22:55:07.192 | INFO     | common.request:send:27 - 响应内容: {"detail":"An unexpected error occurred while processing your request","instance":"/petclinic/api/owners","status":500,"title":"ConstraintViolationException","type":"http://localhost:9966/petclinic/api/owners","timestamp":"2026-10-30T14:55:07.189697600Z","schemaValidationErrors":[]}
+2026-10-30 23:01:22.082 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-30 23:01:22.082 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:01:22.083 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '13800138000'}
+2026-10-30 23:01:22.099 | INFO     | common.request:send:26 - 响应码: 500
+2026-10-30 23:01:22.101 | INFO     | common.request:send:27 - 响应内容: {"detail":"An unexpected error occurred while processing your request","instance":"/petclinic/api/owners","status":500,"title":"ConstraintViolationException","type":"http://localhost:9966/petclinic/api/owners","timestamp":"2026-10-30T15:01:22.097198300Z","schemaValidationErrors":[]}
+2026-10-30 23:05:45.182 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-30 23:05:45.183 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45.183 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '6085551023'}
+2026-10-30 23:05:45.201 | INFO     | common.request:send:26 - 响应码: 201
+2026-10-30 23:05:45.201 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[],"id":13}
+2026-10-30 23:05:45.201 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:27 - ✅ 新增主人成功，owner_id=13
+2026-10-30 23:05:45.202 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners/13/pets
+2026-10-30 23:05:45.203 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45.203 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCat', 'birthDate': '2024-01-01', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-30 23:05:45.214 | INFO     | common.request:send:26 - 响应码: 201
+2026-10-30 23:05:45.215 | INFO     | common.request:send:27 - 响应内容: {"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":15,"visits":[],"ownerId":13}
+2026-10-30 23:05:45.215 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:33 - ✅ 新增宠物成功，pet_id=15
+2026-10-30 23:05:45.215 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/13
+2026-10-30 23:05:45.215 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45.216 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:05:45.224 | INFO     | common.request:send:26 - 响应码: 200
+2026-10-30 23:05:45.224 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":15,"visits":[],"ownerId":13}],"id":13}
+2026-10-30 23:05:45.224 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:40 - ✅ 校验：主人下存在新增的宠物
+2026-10-30 23:05:45.225 | INFO     | common.request:send:15 - 【请求】 PUT http://localhost:9966/petclinic/api/owners/13/pets/15
+2026-10-30 23:05:45.225 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45.225 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCatUpdate', 'birthDate': '2024-02-02', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-30 23:05:45.243 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-30 23:05:45.243 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-30 23:05:45.244 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:47 - ✅ 修改宠物成功
+2026-10-30 23:05:45.244 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/13
+2026-10-30 23:05:45.244 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45.245 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:05:45.252 | INFO     | common.request:send:26 - 响应码: 200
+2026-10-30 23:05:45.252 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCatUpdate","birthDate":"2024-02-02","type":{"name":"cat","id":1},"id":15,"visits":[],"ownerId":13}],"id":13}
+2026-10-30 23:05:45.253 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:54 - ✅ 校验：宠物修改成功
+2026-10-30 23:05:45.253 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/pets/15
+2026-10-30 23:05:45.253 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45.253 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:05:45.264 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-30 23:05:45.265 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-30 23:05:45.265 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:61 - 清理宠物15,code:204
+2026-10-30 23:05:45.265 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/owners/13
+2026-10-30 23:05:45.265 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45.266 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:05:45.275 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-30 23:05:45.275 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-30 23:05:45.275 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:64 - 清理主人13,code:204
+2026-10-30 23:06:08.789 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-30 23:06:08.790 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:06:08.790 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '6085551023'}
+2026-10-30 23:06:08.805 | INFO     | common.request:send:26 - 响应码: 201
+2026-10-30 23:06:08.805 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[],"id":14}
+2026-10-30 23:06:08.805 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:27 - ✅ 新增主人成功，owner_id=14
+2026-10-30 23:06:08.805 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners/14/pets
+2026-10-30 23:06:08.806 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:06:08.806 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCat', 'birthDate': '2024-01-01', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-30 23:06:08.817 | INFO     | common.request:send:26 - 响应码: 201
+2026-10-30 23:06:08.818 | INFO     | common.request:send:27 - 响应内容: {"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":16,"visits":[],"ownerId":14}
+2026-10-30 23:06:08.818 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:33 - ✅ 新增宠物成功，pet_id=16
+2026-10-30 23:06:08.818 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/14
+2026-10-30 23:06:08.818 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:06:08.818 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:06:08.826 | INFO     | common.request:send:26 - 响应码: 200
+2026-10-30 23:06:08.826 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":16,"visits":[],"ownerId":14}],"id":14}
+2026-10-30 23:06:08.826 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:40 - ✅ 校验：主人下存在新增的宠物
+2026-10-30 23:06:08.826 | INFO     | common.request:send:15 - 【请求】 PUT http://localhost:9966/petclinic/api/owners/14/pets/16
+2026-10-30 23:06:08.826 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:06:08.826 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCatUpdate', 'birthDate': '2024-02-02', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-30 23:06:08.840 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-30 23:06:08.840 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-30 23:06:08.841 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:47 - ✅ 修改宠物成功
+2026-10-30 23:06:08.841 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/14
+2026-10-30 23:06:08.841 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:06:08.842 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:06:08.848 | INFO     | common.request:send:26 - 响应码: 200
+2026-10-30 23:06:08.848 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCatUpdate","birthDate":"2024-02-02","type":{"name":"cat","id":1},"id":16,"visits":[],"ownerId":14}],"id":14}
+2026-10-30 23:06:08.849 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:54 - ✅ 校验：宠物修改成功
+2026-10-30 23:06:08.849 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/pets/16
+2026-10-30 23:06:08.849 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:06:08.849 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:06:08.859 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-30 23:06:08.860 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-30 23:06:08.860 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:61 - 清理宠物16,code:204
+2026-10-30 23:06:08.860 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/owners/14
+2026-10-30 23:06:08.860 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:06:08.860 | INFO     | common.request:send:17 - 请求体：None
+2026-10-30 23:06:08.868 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-30 23:06:08.868 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-30 23:06:08.868 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:64 - 清理主人14,code:204
+2026-10-31 01:15:47.440 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-31 01:15:47.441 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-31 01:15:47.441 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '6085551023'}
+2026-10-31 01:15:47.456 | INFO     | common.request:send:26 - 响应码: 201
+2026-10-31 01:15:47.457 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[],"id":15}
+2026-10-31 01:15:47.457 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:27 - ✅ 新增主人成功，owner_id=15
+2026-10-31 01:15:47.457 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners/15/pets
+2026-10-31 01:15:47.467 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-31 01:15:47.467 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCat', 'birthDate': '2024-01-01', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-31 01:15:47.476 | INFO     | common.request:send:26 - 响应码: 201
+2026-10-31 01:15:47.476 | INFO     | common.request:send:27 - 响应内容: {"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":17,"visits":[],"ownerId":15}
+2026-10-31 01:15:47.477 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:33 - ✅ 新增宠物成功，pet_id=17
+2026-10-31 01:15:47.477 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/15
+2026-10-31 01:15:47.477 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-31 01:15:47.477 | INFO     | common.request:send:17 - 请求体：None
+2026-10-31 01:15:47.483 | INFO     | common.request:send:26 - 响应码: 200
+2026-10-31 01:15:47.483 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":17,"visits":[],"ownerId":15}],"id":15}
+2026-10-31 01:15:47.483 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:40 - ✅ 校验：主人下存在新增的宠物
+2026-10-31 01:15:47.483 | INFO     | common.request:send:15 - 【请求】 PUT http://localhost:9966/petclinic/api/owners/15/pets/17
+2026-10-31 01:15:47.483 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-31 01:15:47.483 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCatUpdate', 'birthDate': '2024-02-02', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-31 01:15:47.495 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-31 01:15:47.495 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-31 01:15:47.495 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:47 - ✅ 修改宠物成功
+2026-10-31 01:15:47.495 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/15
+2026-10-31 01:15:47.495 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-31 01:15:47.496 | INFO     | common.request:send:17 - 请求体：None
+2026-10-31 01:15:47.502 | INFO     | common.request:send:26 - 响应码: 200
+2026-10-31 01:15:47.502 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCatUpdate","birthDate":"2024-02-02","type":{"name":"cat","id":1},"id":17,"visits":[],"ownerId":15}],"id":15}
+2026-10-31 01:15:47.502 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:54 - ✅ 校验：宠物修改成功
+2026-10-31 01:15:47.502 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/pets/17
+2026-10-31 01:15:47.502 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-31 01:15:47.503 | INFO     | common.request:send:17 - 请求体：None
+2026-10-31 01:15:47.511 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-31 01:15:47.511 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-31 01:15:47.512 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:61 - 清理宠物17,code:204
+2026-10-31 01:15:47.512 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/owners/15
+2026-10-31 01:15:47.512 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-10-31 01:15:47.512 | INFO     | common.request:send:17 - 请求体：None
+2026-10-31 01:15:47.518 | INFO     | common.request:send:26 - 响应码: 204
+2026-10-31 01:15:47.518 | INFO     | common.request:send:27 - 响应内容: 
+2026-10-31 01:15:47.518 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:64 - 清理主人15,code:204
+2026-11-09 21:47:28.472 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-11-09 21:47:28.473 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:47:28.473 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '6085551023'}
+2026-11-09 21:47:32.506 | ERROR    | common.request:send:30 - 请求异常：HTTPConnectionPool(host='localhost', port=9966): Max retries exceeded with url: /petclinic/api/owners (Caused by NewConnectionError("HTTPConnection(host='localhost', port=9966): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-11-09 21:56:20.143 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-11-09 21:56:20.143 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:56:20.143 | INFO     | common.request:send:17 - 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '6085551023'}
+2026-11-09 21:56:20.255 | INFO     | common.request:send:26 - 响应码: 201
+2026-11-09 21:56:20.255 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[],"id":11}
+2026-11-09 21:56:20.255 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:27 - ✅ 新增主人成功，owner_id=11
+2026-11-09 21:56:20.255 | INFO     | common.request:send:15 - 【请求】 POST http://localhost:9966/petclinic/api/owners/11/pets
+2026-11-09 21:56:20.256 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:56:20.256 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCat', 'birthDate': '2024-01-01', 'type': {'id': 1, 'name': 'cat'}}
+2026-11-09 21:56:20.312 | INFO     | common.request:send:26 - 响应码: 201
+2026-11-09 21:56:20.312 | INFO     | common.request:send:27 - 响应内容: {"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":14,"visits":[],"ownerId":11}
+2026-11-09 21:56:20.312 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:33 - ✅ 新增宠物成功，pet_id=14
+2026-11-09 21:56:20.312 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/11
+2026-11-09 21:56:20.313 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:56:20.313 | INFO     | common.request:send:17 - 请求体：None
+2026-11-09 21:56:20.320 | INFO     | common.request:send:26 - 响应码: 200
+2026-11-09 21:56:20.320 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":14,"visits":[],"ownerId":11}],"id":11}
+2026-11-09 21:56:20.320 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:40 - ✅ 校验：主人下存在新增的宠物
+2026-11-09 21:56:20.320 | INFO     | common.request:send:15 - 【请求】 PUT http://localhost:9966/petclinic/api/owners/11/pets/14
+2026-11-09 21:56:20.320 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:56:20.321 | INFO     | common.request:send:17 - 请求体：{'name': 'AutoCatUpdate', 'birthDate': '2024-02-02', 'type': {'id': 1, 'name': 'cat'}}
+2026-11-09 21:56:20.346 | INFO     | common.request:send:26 - 响应码: 204
+2026-11-09 21:56:20.346 | INFO     | common.request:send:27 - 响应内容: 
+2026-11-09 21:56:20.346 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:47 - ✅ 修改宠物成功
+2026-11-09 21:56:20.346 | INFO     | common.request:send:15 - 【请求】 GET http://localhost:9966/petclinic/api/owners/11
+2026-11-09 21:56:20.347 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:56:20.347 | INFO     | common.request:send:17 - 请求体：None
+2026-11-09 21:56:20.352 | INFO     | common.request:send:26 - 响应码: 200
+2026-11-09 21:56:20.353 | INFO     | common.request:send:27 - 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCatUpdate","birthDate":"2024-02-02","type":{"name":"cat","id":1},"id":14,"visits":[],"ownerId":11}],"id":11}
+2026-11-09 21:56:20.353 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:54 - ✅ 校验：宠物修改成功
+2026-11-09 21:56:20.353 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/pets/14
+2026-11-09 21:56:20.353 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:56:20.353 | INFO     | common.request:send:17 - 请求体：None
+2026-11-09 21:56:20.375 | INFO     | common.request:send:26 - 响应码: 204
+2026-11-09 21:56:20.375 | INFO     | common.request:send:27 - 响应内容: 
+2026-11-09 21:56:20.376 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:61 - 清理宠物14,code:204
+2026-11-09 21:56:20.376 | INFO     | common.request:send:15 - 【请求】 DELETE http://localhost:9966/petclinic/api/owners/11
+2026-11-09 21:56:20.376 | INFO     | common.request:send:16 - 请求头：{'Content-Type': 'application/json'}
+2026-11-09 21:56:20.376 | INFO     | common.request:send:17 - 请求体：None
+2026-11-09 21:56:20.388 | INFO     | common.request:send:26 - 响应码: 204
+2026-11-09 21:56:20.388 | INFO     | common.request:send:27 - 响应内容: 
+2026-11-09 21:56:20.389 | INFO     | test_owner_pet_flow:test_owner_pet_full_flow:64 - 清理主人11,code:204

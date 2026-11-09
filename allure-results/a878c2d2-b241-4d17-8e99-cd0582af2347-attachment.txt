@@ -1,0 +1,42 @@
+2026-10-30 23:05:45 | INFO | 【请求】 POST http://localhost:9966/petclinic/api/owners
+2026-10-30 23:05:45 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45 | INFO | 请求体：{'firstName': 'Auto', 'lastName': 'TestUser', 'address': 'test street 123', 'city': 'Nanning', 'telephone': '6085551023'}
+2026-10-30 23:05:45 | INFO | 响应码: 201
+2026-10-30 23:05:45 | INFO | 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[],"id":13}
+2026-10-30 23:05:45 | INFO | ✅ 新增主人成功，owner_id=13
+2026-10-30 23:05:45 | INFO | 【请求】 POST http://localhost:9966/petclinic/api/owners/13/pets
+2026-10-30 23:05:45 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45 | INFO | 请求体：{'name': 'AutoCat', 'birthDate': '2024-01-01', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-30 23:05:45 | INFO | 响应码: 201
+2026-10-30 23:05:45 | INFO | 响应内容: {"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":15,"visits":[],"ownerId":13}
+2026-10-30 23:05:45 | INFO | ✅ 新增宠物成功，pet_id=15
+2026-10-30 23:05:45 | INFO | 【请求】 GET http://localhost:9966/petclinic/api/owners/13
+2026-10-30 23:05:45 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45 | INFO | 请求体：None
+2026-10-30 23:05:45 | INFO | 响应码: 200
+2026-10-30 23:05:45 | INFO | 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCat","birthDate":"2024-01-01","type":{"name":"cat","id":1},"id":15,"visits":[],"ownerId":13}],"id":13}
+2026-10-30 23:05:45 | INFO | ✅ 校验：主人下存在新增的宠物
+2026-10-30 23:05:45 | INFO | 【请求】 PUT http://localhost:9966/petclinic/api/owners/13/pets/15
+2026-10-30 23:05:45 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45 | INFO | 请求体：{'name': 'AutoCatUpdate', 'birthDate': '2024-02-02', 'type': {'id': 1, 'name': 'cat'}}
+2026-10-30 23:05:45 | INFO | 响应码: 204
+2026-10-30 23:05:45 | INFO | 响应内容: 
+2026-10-30 23:05:45 | INFO | ✅ 修改宠物成功
+2026-10-30 23:05:45 | INFO | 【请求】 GET http://localhost:9966/petclinic/api/owners/13
+2026-10-30 23:05:45 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45 | INFO | 请求体：None
+2026-10-30 23:05:45 | INFO | 响应码: 200
+2026-10-30 23:05:45 | INFO | 响应内容: {"firstName":"Auto","lastName":"TestUser","address":"test street 123","city":"Nanning","telephone":"6085551023","pets":[{"name":"AutoCatUpdate","birthDate":"2024-02-02","type":{"name":"cat","id":1},"id":15,"visits":[],"ownerId":13}],"id":13}
+2026-10-30 23:05:45 | INFO | ✅ 校验：宠物修改成功
+2026-10-30 23:05:45 | INFO | 【请求】 DELETE http://localhost:9966/petclinic/api/pets/15
+2026-10-30 23:05:45 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45 | INFO | 请求体：None
+2026-10-30 23:05:45 | INFO | 响应码: 204
+2026-10-30 23:05:45 | INFO | 响应内容: 
+2026-10-30 23:05:45 | INFO | 清理宠物15,code:204
+2026-10-30 23:05:45 | INFO | 【请求】 DELETE http://localhost:9966/petclinic/api/owners/13
+2026-10-30 23:05:45 | INFO | 请求头：{'Content-Type': 'application/json'}
+2026-10-30 23:05:45 | INFO | 请求体：None
+2026-10-30 23:05:45 | INFO | 响应码: 204
+2026-10-30 23:05:45 | INFO | 响应内容: 
+2026-10-30 23:05:45 | INFO | 清理主人13,code:204
